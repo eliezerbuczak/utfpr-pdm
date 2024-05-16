@@ -84,26 +84,6 @@ const styles = StyleSheet.create({
 
 
     },
-    width_options: {
-        width: "20%",
-        alignItems: "center",
-    },
-    image: {
-        width: '100%',
-        height: '100%',
-    },
-    container_image: {
-        width: 60,
-        height: 60,
-    },
-    rounded: {
-        backgroundColor: "#fff",
-        width: '100%',
-        height: '100%',
-        borderRadius: 100,
-        overflow: "hidden",
-        padding: 10
-    },
     title: {
         paddingTop: 14,
         paddingLeft: 20,
